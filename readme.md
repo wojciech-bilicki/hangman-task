@@ -32,7 +32,10 @@ The game should consist of 5 screens:
       * user is shown "You lost" sentence if he loses
     
 
+### Please provide your code as link to github repository or (eventually ) zip file.
+
 Hints:
+
 * I will recommend taking a look at: https://invis.io/M6ESK3VDE which provides wireframes as possible looks of the app, don't hesitate to improve and change them, though
 * I will recommend using [Visual Studio Code](https://code.visualstudio.com/) as Text Editor
 * [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) can be used to hold and maintain the data about the scoreboard
