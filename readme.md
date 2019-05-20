@@ -2,7 +2,7 @@
 
 Hello! Your task is to create hangman game using ReactJS, StyledComponents and axios.
 
-The data to use for the game is in __assets/data.js__ file.
+The data to use for the game available on this URL http://www.mocky.io/v2/5ce287fe340000ad3a773515.
 
 The game should consist of 5 screens:
 
@@ -25,7 +25,7 @@ The game should consist of 5 screens:
     6. There should be an input to provide full answer and the confirmation button.
         * if user inputs wrong password he loses
         * if user fills the password correctly he wins
-    7. There should be a button 'show hint' to show the hint provided for each password in data.js file
+    7. There should be a button 'show hint' to show the hint provided for each password in file. Hints are available as a property in objects here: http://www.mocky.io/v2/5ce287fe340000ad3a773515
 
   5. The summary screen
       * user is shown his time and is asked for name if he wins
@@ -40,6 +40,5 @@ Hints:
 * I will recommend using [Visual Studio Code](https://code.visualstudio.com/) as Text Editor
 * [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) can be used to hold and maintain the data about the scoreboard
 * We don't expect you to implement all functionalities, just see how far you can go with that.
-* I can be reached at https://discordapp.com/invite/reasonml room as wojciech.bilicki for further hints and explanation from 8 AM to 4 PM Monday-Friday or wojciech.bilicki@oke.pl
 
 
