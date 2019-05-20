@@ -36,9 +36,15 @@ The game should consist of 5 screens:
 
 Hints:
 
-* I will recommend taking a look at: https://invis.io/M6ESK3VDE which provides wireframes as possible looks of the app, don't hesitate to improve and change them, though
+* I will recommend taking a look at: https://invis.io/M6ESK3VDE which provides wireframes as possible looks of the app, don't hesitate to improve and change them, thought
 * I will recommend using [Visual Studio Code](https://code.visualstudio.com/) as Text Editor
 * [LocalStorage](https://developer.mozilla.org/en-US/docs/Web/API/Web_Storage_API/Using_the_Web_Storage_API) can be used to hold and maintain the data about the scoreboard
 * We don't expect you to implement all functionalities, just see how far you can go with that.
+
+Additional points are granted for:
+    - actually drawing the hangman on the screen (you can use canvas i.e.)
+    - Adding fancy animations
+    - Adding sign up and login system (it can be based on localStorage, since we don't have real API for that)
+    - Estethics and considered design
 
 
