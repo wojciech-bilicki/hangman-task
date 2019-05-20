@@ -1,6 +1,6 @@
 # Hangman game
 
-Hello! Your task is to create hangman game using **ONLY** HTML, CSS and JS (__no libraries, no frameworks__).
+Hello! Your task is to create hangman game using ReactJS, StyledComponents and axios.
 
 The data to use for the game is in __assets/data.js__ file.
 
