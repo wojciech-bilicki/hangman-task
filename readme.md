@@ -42,9 +42,10 @@ Hints:
 * We don't expect you to implement all functionalities, just see how far you can go with that.
 
 Additional points are granted for:
-    - actually drawing the hangman on the screen (you can use canvas i.e.)
-    - Adding fancy animations
-    - Adding sign up and login system (it can be based on localStorage, since we don't have real API for that)
-    - Estethics and considered design
+    * actually drawing the hangman on the screen (you can use canvas i.e.)
+    * Adding fancy animations
+    * Adding sign up and login system (it can be based on localStorage, since we don't have real API for that)
+    * Estethics and considered design
+    * Using React hooks instead of standard way to manage the state.
 
 
